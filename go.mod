@@ -1,6 +1,6 @@
 module github.com/Volodya198/Test_1_check_go
 
-go 1.25.1
+go 1.25.0
 
 require (
 	github.com/bytedance/sonic v1.14.0 // indirect
